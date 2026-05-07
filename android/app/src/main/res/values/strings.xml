@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FocusShield</string>
+    <string name="accessibility_service_name">FocusShield App Blocking</string>
+    <string name="accessibility_service_description">Monitors the foreground app and blocks selected apps during focus schedules.</string>
+    <string name="service_channel_name">FocusShield Monitoring</string>
+    <string name="service_channel_description">Keeps focus protection active in the background.</string>
+    <string name="service_notification_title">FocusShield is watching for blocked apps</string>
+    <string name="service_notification_body">Focus mode runs offline using accessibility and usage access.</string>
+    <string name="block_title">This app is blocked during focus time</string>
+    <string name="block_body">Return when your focus session ends, or open FocusShield to adjust your settings.</string>
+    <string name="block_action_home">Go Home</string>
+    <string name="block_action_open_app">Open FocusShield</string>
+</resources>

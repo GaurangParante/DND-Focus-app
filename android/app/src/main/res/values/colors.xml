@@ -1,0 +1,11 @@
+<resources>
+    <color name="block_screen_background">#08111C</color>
+    <color name="block_card_background">#132033</color>
+    <color name="block_card_border">#223753</color>
+    <color name="block_accent">#5EEAD4</color>
+    <color name="block_text_primary">#E6F1FF</color>
+    <color name="block_text_secondary">#9AB0C8</color>
+    <color name="block_button_primary">#5EEAD4</color>
+    <color name="block_button_text">#04131A</color>
+    <color name="block_button_secondary">#1B2B44</color>
+</resources>
